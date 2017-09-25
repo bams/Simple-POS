@@ -1,0 +1,4 @@
+['Castlevania', 7.99, 'https://en.wikipedia.org/wiki/Castlevania_%281986_video_game%29', 'http://www.playretrogames.com/3001-castlevania-i']
+['River City Ransom', 8.99, 'https://en.wikipedia.org/wiki/River_City_Ransom', 'http://www.playretrogames.com/677-river-city-ransom']
+['Super Mario Bros. 3', 9.99, 'https://en.wikipedia.org/wiki/Super_Mario_Bros._3', 'http://www.playretrogames.com/3173-super-mario-bros-3']
+['The Legend of Zelda', 12.99, 'https://en.wikipedia.org/wiki/The_Legend_of_Zelda_%28video_game%29', 'http://www.playretrogames.com/2367-the-legend-of-zelda']

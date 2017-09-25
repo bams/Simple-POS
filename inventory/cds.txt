@@ -1,0 +1,4 @@
+['Bucketfulls of Sickness and Horror in an Otherwise Meaningless Life', 'Alice Donut', 3.98, 'https://itunes.apple.com/us/album/bucketfulls-sickness-horror-in-otherwise-meaningless/id393988824', 'https://www.youtube.com/watch?v=092DUlx2hX0&user=KoozebaneBert']
+['James Browns Funky Christmas', 'James Brown', 0.99, 'https://www.amazon.com/James-Browns-Funky-Christmas-Brown/dp/B000001EFD', 'https://www.youtube.com/watch?v=ryKRcVqsph8&user=MusicForYourFunk']
+['Suicidal Tendencies', 'Suicidal Tendencies', 2.0, 'https://en.wikipedia.org/wiki/Suicidal_Tendencies_%28album%29', 'https://www.youtube.com/watch?v=aYItTxqTc38&user=dandanthetaximan']
+['Torture Garden', 'Naked City', 6.98, 'https://en.wikipedia.org/wiki/Torture_Garden_%28album%29', 'https://www.youtube.com/watch?v=O_EH6VZV6_A&user=iwannasmellyourbutt']

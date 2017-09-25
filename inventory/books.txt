@@ -1,0 +1,3 @@
+['A Small Loan of a Million Books', 'Donald J. Trump', 1000000.0, 'No Description Available', 'No Sample Available']
+['Book Club', 'Book Palahniuk', 4.98, 'http://chuckpalahniuk.net/books/fight-club', 'https://www.youtube.com/watch?v=RB8sAKb9tPU&user=TheWatercooler']
+['Mary Had a Little Book', 'Mother Book', 3.98, 'http://www.nurseryrhymes.org/mary-had-a-little-lamb.html', 'https://www.youtube.com/watch?v=CkRdvGmcCBE&user=TheChuChuTV']
